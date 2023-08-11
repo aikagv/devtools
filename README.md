@@ -1,7 +1,7 @@
 ## $${\color{#28B5B1}DEVTOOLS}$$
 ___
 
-## My DevTools video :movie_camera:
+## [My DevTools video](https://drive.google.com/file/d/1nFciCrT134sf1C5lQaZUirn0WpkskVeu/view?usp=sharing) :movie_camera:
 
 ### My steps in the video:
 
@@ -40,10 +40,10 @@ ___
 33. It will be empty everywhere
 34. Open any website you want
 35. Open the LightHouse tab
-36. Click Generate report
+36. Click Generate a report
 37. Install a free AdBlocker in your browser
 38. Install Json Viewer in your browser
-39. Go to the website https://ksendzov.com (https://ksendzov.com/)
+39. Go to the website https://ksendzov.com
 40. Take and save a screenshot of the visible part of the website
 41. Take and save a screenshot of the entire website
 42. Change the GPS location. Demonstrate on the Google Maps
@@ -57,4 +57,4 @@ ___
 50. Find the interface to change/add Throttling parameters
 51. Create your own parameters for a poor connection and test how the page loads
 52. Find the interface to change/add Locations parameters
-53. Test how location changes are applied on Google Maps
+53. Test how location changes are applied on the Google Maps
